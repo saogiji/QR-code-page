@@ -24,8 +24,8 @@ A screenshot of the final project is shown below;
 
 ### Links
 
-- Solution URL: The project solution can be found [here](https://github.com/saogiji/personal-projects/tree/main/qr-code)
-- Live Site URL: The Live Site solution can be found [here](https://codepen.io/saogiji/full/abYJRLp)
+- Solution URL: The project solution can be found [here](https://github.com/saogiji/personal-projects/tree/main/qr-code) and [here](https://codepen.io/saogiji/full/abYJRLp)
+- Live Site URL: The Live Site solution can be found [here](https://qr-code-page-alpha.vercel.app/)
 
 ## My process
 

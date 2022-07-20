@@ -34,3 +34,20 @@ body {
   padding: 5px;
   padding-top: 0;
 }
+
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+  font-family: "Outfit", sans-serif;
+  font-size: 10px;
+  color: hsl(218, 44%, 22%);
+}
+
+.attribution {
+  box-sizing: border-box;
+  position: absolute;
+  bottom: 0;
+  left: 480.5px;
+}
